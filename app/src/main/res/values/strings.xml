@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Weekday_lecture_03</string>
+    <string name="app_name">Weekend_lecture_03</string>
     <string name="send_message">Enter a Message</string>
     <string name="send_button">send</string>
 </resources>
